@@ -3,3 +3,5 @@ sessions
 bin/server.cert
 bin/server.key
 public/images/*
+config.js
+env.json
